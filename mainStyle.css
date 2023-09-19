@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	text-align: center;
+}
+
+body{
+	background-color: #476B75;
+}
+
+/* all text color*/
+*{
+	color:#FFFFFF;
+}
+
+/* unvisited link */
+a:link {
+  color: DodgerBlue;
+}
+
+/* visited link */
+a:visited {
+  color: Tomato;
+}
+
+/* mouse over link */
+a:hover {
+  color: MediumSeaGreen;
+}
+
+/* selected link */
+a:active {
+  color: SlateBlue;
+}
